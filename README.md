@@ -1,1 +1,1 @@
-# eksworkshop-example
+# eks-example
